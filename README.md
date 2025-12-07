@@ -18,8 +18,9 @@ Mivvi is a cross-platform mobile application built using [Flutter](https://flutt
 * **State Management:** (Update this if you use Provider, Riverpod, Bloc, etc.)
 
 ## 📸 Screenshots
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b68aeb5-7dff-46c4-8e17-e726884f38ba" />
 
-*Screenshots coming soon.*
+
 
 ## 🏁 Getting Started
 
