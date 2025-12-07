@@ -19,6 +19,8 @@ Mivvi is a cross-platform mobile application built using [Flutter](https://flutt
 
 ## 📸 Screenshots
 <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b68aeb5-7dff-46c4-8e17-e726884f38ba" />
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/dfea1f75-7c23-49da-932c-2164f6341634" />
+<img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/a97e5479-0182-4b5a-9eae-7ca727788344" />
 
 
 
