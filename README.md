@@ -1,3 +1,65 @@
-# mivo
+# Mivvi
 
-A new Flutter project.
+Mivvi is a cross-platform mobile application built using [Flutter](https://flutter.dev/). It is designed to run on Android, iOS, Web, MacOS, Windows, and Linux.
+
+## 🚀 Features
+
+* **Cross-Platform:** Single codebase running on mobile, web, and desktop.
+* **Authentication Flow:**
+    * User Registration
+    * Secure Login
+    * Password Recovery (Forgot Password)
+* **Modern UI:** Built with Flutter's material design widgets.
+
+## 🛠 Tech Stack
+
+* **Framework:** Flutter
+* **Language:** Dart
+* **State Management:** (Update this if you use Provider, Riverpod, Bloc, etc.)
+
+## 📸 Screenshots
+
+*Screenshots coming soon.*
+
+## 🏁 Getting Started
+
+Follow these instructions to set up the project locally.
+
+### Prerequisites
+
+* [Flutter SDK](https://docs.flutter.dev/get-started/install)
+* [VS Code](https://code.visualstudio.com/) or [Android Studio](https://developer.android.com/studio)
+* Git
+
+### Installation
+
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/Xhehdy/mivvi.git](https://github.com/Xhehdy/mivvi.git)
+    cd mivvi
+    ```
+
+2.  **Install dependencies:**
+    ```bash
+    flutter pub get
+    ```
+
+3.  **Run the app:**
+    * Check available devices:
+        ```bash
+        flutter devices
+        ```
+    * Run on a specific device (e.g., iPhone or Android Emulator):
+        ```bash
+        flutter run
+        ```
+
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart                 # Entry point of the application
+├── login_page.dart           # User login interface
+├── registration_page.dart    # User sign-up interface
+├── forgot_password_page.dart # Password recovery
+└── ...
