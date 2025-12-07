@@ -1,0 +1,96 @@
+migrate_working_dir/
+
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/build/
+
+# Linux
+linux/flutter/
+linux/build/
+
+# Windows
+windows/flutter/
+windows/build/
+
+# Web
+web/generated_plugin_registrant.dart
+
+# Environment files
+.env
+.env.*
+
+# Firebase
+firebase_app_id_file.json
+
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+local.properties
+
+
+# VS Code
+.vscode/
+
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+.packages
+
+# iOS/Xcode related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/ephemeral/
+ios/Flutter/ServiceDefinitions.json
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+*.xcscmblueprint
+
+
+# Symbolication related
+app.*.symbols
+
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
