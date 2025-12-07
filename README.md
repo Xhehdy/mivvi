@@ -21,6 +21,14 @@ Mivvi is a cross-platform mobile application built using [Flutter](https://flutt
 <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/9b68aeb5-7dff-46c4-8e17-e726884f38ba" />
 <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/dfea1f75-7c23-49da-932c-2164f6341634" />
 <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/a97e5479-0182-4b5a-9eae-7ca727788344" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/f08795e8-8ecc-4ebf-aa80-c882bed16f98" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/0b106880-cf8a-4640-a525-683c7ab7d9bb" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/fc8ff033-039b-48da-bd93-08bae5b7c2ef" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/61a38edd-cb4e-4c5b-be43-a8cf63105d4f" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/eab8b1e1-39db-444a-9084-cb7ee8149b0b" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/9034ff2c-8cf3-491b-aa19-533ca26306ba" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/5ec251b8-fe7f-46ff-82e0-8ea7b168b2d9" />
+<img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/30f3978c-855b-42cc-aaa9-18c6af81a914" />
 
 
 
