@@ -18,13 +18,20 @@ Mivvi is a cross-platform mobile application built using [Flutter](https://flutt
 * **State Management:** (Update this if you use Provider, Riverpod, Bloc, etc.)
 
 ## 📸 Screens & Code
+### 1. Login Screen
+The entry point for authenticated users.
 <p float="left">
   <img src="https://github.com/user-attachments/assets/9b68aeb5-7dff-46c4-8e17-e726884f38ba" width="200" />
   <img src="https://github.com/user-attachments/assets/1b36563a-9274-4665-9334-dcc6cd439e5f" width="200" />
   <img src="https://github.com/user-attachments/assets/1f82c80b-32fa-44a7-86cc-c4e70ce4ca70" width="200" />
   <img src="https://github.com/user-attachments/assets/2c507989-4983-463e-be8d-a10f02573553" width="200" />
 </p>
-
+<p float="left">
+  <img width="589" height="1280" alt="image" src="https://github.com/user-attachments/assets/78bb18f1-5581-47e3-9b3a-34f05fd61065" width="200" />
+  <img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/c8f037d0-833b-457d-8ec7-31bb2b763e2e" width="200" />
+  <img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/c7d9a586-03a0-4d45-9184-f89c6d579c4a" width="200" />
+  <img width="1280" height="804" alt="image" src="https://github.com/user-attachments/assets/1a955fd7-2ea1-4fbc-825c-364d7ab999bd" width="200" />
+</p>
 
 ## 🏁 Getting Started
 
